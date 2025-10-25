@@ -1,2 +1,2 @@
-# C-language1
+# C-language
 all baisc and medium c problem code
