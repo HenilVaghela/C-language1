@@ -1,2 +1,2 @@
 # C-language
-all baisc and medium c problem code
+A collection of C programs, tutorials, and exercises to build a solid understanding of C programming fundamentals.
